@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "0-4 år",
+      "age": {
+        "min": 0,
+        "max": 4
+      },
+      "skiLength": {
+        "min": 0,
+        "max": null
+      },
+      "info": "För barn som är 0-8 år gamla så väljs inte skid-stil (klassisk eller fri). För barn 0-4 år ska de ha skidor som är över kroppslängden.",
+      "skiLimit": null
+    },
+    {
+      "name": "5-8 år",
+      "age": {
+        "min": 5,
+        "max": 8
+      },
+      "skiLength": {
+        "min": 10,
+        "max": 20
+      },
+      "info": "För barn som är 0-8 år gamla så väljs inte skid-stil (klassisk eller fri). För barn 5-8 år ska de ha skidor som är mellan 10-20 cm över kroppslängden.",
+      "skiLimit": null
+    },
+    {
+      "name": "Fristil",
+      "age": {
+        "min": 9,
+        "max": null
+      },
+      "skiLength": {
+        "min": 10,
+        "max": 15
+      },
+      "info": "Skidor för fristil ska var 10-15 cm längre än kroppslängden. Enligt tävlingsreglerna får inte skidan understiga kroppslängden med mer än 10cm.",
+      "skiLimit": null
+    },
+    {
+      "name": "Klassisk",
+      "age": {
+        "min": 9,
+        "max": null
+      },
+      "skiLength": {
+        "min": 20,
+        "max": null
+      },
+      "info": "Skidor för Klassisk stil ska var minst 20 cm längre än kroppslängden. Klassiska skidor tillverkas bara i längder upp till 207cm.",
+      "skiLimit": 207
+    }
+  ]
+}
